@@ -76,6 +76,7 @@ Each environment uses its own Terraform workspace and variable files to ensure i
 
 
 
+
 2. Validate Configuration
 terraform validate
 
