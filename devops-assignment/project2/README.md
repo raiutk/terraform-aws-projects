@@ -2,7 +2,7 @@ Project 2: Secure Application Infrastructure Deployment on AWS using Terraform
 Objective:Deploy and manage a secure, scalable application infrastructure on AWS using Terraform, leveraging the VPC created in Project 1.
 Key Highlights:
 * Provision core AWS services:
-    * EC2 Instances (Auto Scaling enabled).
+    * EC2 Instances (Auto Scaling enabled). 
     * Elastic Load Balancer (ALB/NLB) for traffic distribution.
     * S3 Buckets with encryption, versioning, and lifecycle policies.
     * CloudFront for CDN and caching.
